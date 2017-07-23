@@ -1,1 +1,78 @@
+.explanation{
+  float: left;
+}
+dt{
+  clear: left;
+  float: left;
+  font-weight: bold;
+  width: 100px;
+}
+
+
+
+#ingredient{
+  border: 2px solid lightcoral;
+  border-collapse: collapse;
+}
+
+#unit{
+  background-color: lightyellow;
+  width: 50px;
+}
+#name{
+  background-color:mistyrose;
+}
+
+thead th{
+  background-color: white;
+}
+
+thead td{
+  color: white;
+  background-color: lightcoral;
+  padding: 5px;
+  width: 100px;
+  text-align: center;
+}
+
+
+tbody th{
+  border: 1px solid lightcoral;
+  padding: 5px;
+  width: 200px;
+  text-align: right;
+}
+tbodey td{
+  border: 1px solid lightcoral;
+  padding: 5px;
+  text-align: right;
+}
+
+.btn{
+  -webkit-appearance: none;
+  -webkit-border-radius: 0;
+  margin:5px;
+  width: 100px;
+  height: 40px;
+  padding: 10px;
+  border: none;
+  font-size: 16px;
+}
+
+.btn:hover{
+  opacity: 0.7;
+}
+
+.btnh:active{
+  color:white;
+}
+
+.btn-submit{
+  background-color: silver;
+}
+
+.btn-reset{
+  background-color: lightcoral;
+}
+
 
