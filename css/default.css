@@ -24,10 +24,12 @@ dt{
 }
 
 thead th{
+  border: 1px solid lightcoral;
   background-color: white;
 }
 
 thead td{
+  border: 1px solid lightcoral;
   color: white;
   background-color: Cyan;
   padding: 5px;
